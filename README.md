@@ -7,4 +7,5 @@ All The Project Based On Open CV With Code
 3. Ball Tracking
 4. Dr Strange Animation Effect
 5. Iron Man Repulsor Sound using Hand Tracking
+6. Student Attendance System
 ```
